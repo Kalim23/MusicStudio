@@ -1,5 +1,7 @@
 # MusicStudio
-Educational project in progress.
+**Educational project.**
+
+This project is in progres.
 
 Java GUI Swing application that allows you to manage music files.
 
